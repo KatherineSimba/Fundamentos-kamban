@@ -1,5 +1,10 @@
 # Fundamentos-kamban
 kamban es un sistema de información que controla de modo armónico la fabricación de los productos necesarios en la cantidad y tiempo necesarios en cada uno de los procesos que tienen lugar tanto en el interior de la fábrica, como entre distintas empresas.
+
+ Sus ideas sobre la producción industrial, plasmados en el libro ‘Toyota Production System: Beyond Large-Scale Production’ de 1988, fueron claves en el crecimiento de la empresa japonesa hasta convertirse en uno de los fabricantes de automóviles más solventes, respetados y rentables del mundo.
+
+Es un método de administración de proyectos, sencillo y elegante que ayuda a controlar y mejorar los procesos de desarrollo. En este curso, aprenderemos a gestionar un tablero de Kanban y a adaptarlo a cualquier entorno de trabajo.
+
 # Los principios del método Kanban
 
 El método Kanban tiene sus raíces en cuatro principios básicos:
